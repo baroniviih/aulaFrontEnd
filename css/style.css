@@ -1,16 +1,16 @@
 .nav{
     font-size: 25px;
     padding: 80px;
-
+background-color: mistyrose;
 }
 
 body{
 
-    background-color: pink;
+    background-color:mistyrose;
 }
 
 #foto{
-    margin-top: -25px;
+    margin-top: -50px;
     margin-left: 1230px;
     border-radius: 40%;
 }
@@ -19,3 +19,13 @@ body{
     margin-top: 350px;
     margin-bottom: 80px;
 }
+.cabecalho{
+display:flex
+
+}
+
+.closet{
+    text-align: left;
+    margin-top: -120px;
+}
+  
