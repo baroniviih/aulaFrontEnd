@@ -1,13 +1,3 @@
-.nav{
-    font-size: 25px;
-    padding: 80px;
-background-color: mistyrose;
-}
-
-body{
-
-    background-color:mistyrose;
-}
 
 #foto{
     margin-top: -50px;
@@ -19,13 +9,14 @@ body{
     margin-top: 350px;
     margin-bottom: 80px;
 }
-.cabecalho{
-display:flex
 
-}
 
 .closet{
     text-align: left;
-    margin-top: -120px;
+    margin-top: 120px;
+}
+
+body{
+    background-color: mistyrose;
 }
   
