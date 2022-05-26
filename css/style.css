@@ -1,9 +1,18 @@
 
 #foto{
-    margin-top: -50px;
-    margin-left: 1230px;
-    border-radius: 40%;
+    margin-top: 20px;
+    margin-left: 570px;   
 }
+
+#foto2{
+margin-left: 1000px;
+margin-top: -1100px;
+
+
+}
+
+
+
 .d-block{
     margin-left: 80px;
     margin-top: 350px;
@@ -11,12 +20,46 @@
 }
 
 
+
 .closet{
     text-align: left;
     margin-top: 120px;
 }
 
+
 body{
     background-color: mistyrose;
+
 }
-  
+
+
+.grid-template-columns {
+	grid-template-columns: 200px 200px;
+}
+
+.item {
+	margin: 5px;
+	text-align: center;
+	
+}
+
+.grid{
+    display: grid;
+
+}
+h1{
+    text-align: center;
+}
+
+    .button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
