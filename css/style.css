@@ -1,14 +1,21 @@
 
 #foto{
     margin-top: 20px;
-    margin-left: 570px;   
+    margin-left: 570px;  
+    margin-bottom: -10px; 
 }
 
 #foto2{
 margin-left: 1000px;
-margin-top: -1100px;
+margin-top: -1000px;
+margin-bottom: -5px;
 
+}
 
+#foto3{
+    margin-top: 20px;
+    margin-left: 500px;  
+    margin-bottom: -10px; 
 }
 
 
@@ -51,15 +58,28 @@ h1{
     text-align: center;
 }
 
-    .button {
+    .button1 {
         background-color: #4CAF50;
         border: none;
         color: white;
-        padding: 15px 32px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        margin: 4px 2px;
-        cursor: pointer;
-      }
+        margin-left: 700px;
+    }
+
+    .button2 {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 700px;
+        margin-top: -15px;
+    }
+
+    
+      
